@@ -65,14 +65,14 @@ Here are some screenshots of the Learn Quest application:
 ### Home Page
 ![Home Page](./assets/homepage.png)
 
-### Feedback Page
-![Feedback Page](./assets/feedback.png)
+### Calender Page
+![Calendar Page](./assets/feedback.png)
 
-### Leaderboard
-![Leaderboard](./assets/leaderboard.png)
+### Message your Teacher
+![Message your Teacher](./assets/leaderboard.png)
 
-### Recommendation Request
-![Recommendation Request](./assets/Rewards.png)
+### Rewards
+![Rewards](./assets/Rewards.png)
 
 ### Contributing
 

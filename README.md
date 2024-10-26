@@ -16,6 +16,9 @@ Learn Quest is a gamified student-faculty feedback system designed to enhance th
 - **Database**: MongoDB
 - **Styling**: Tailwind CSS, Syncfusion UI
 
+
+
+
 ## Prerequisites
 - Node.js (v12 or higher)
 - MongoDB
@@ -55,6 +58,21 @@ Install dependencies
 - Students can create an account, participate in challenges, and provide feedback on faculty.
 - Faculty members can view feedback, participate in challenges, and track their reputation scores.
 
+## Screenshots
+
+Here are some screenshots of the Learn Quest application:
+
+### Home Page
+![Home Page](./assets/homepage.png)
+
+### Feedback Page
+![Feedback Page](./assets/feedback.png)
+
+### Leaderboard
+![Leaderboard](./assets/leaderboard.png)
+
+### Recommendation Request
+![Recommendation Request](./assets/Rewards.png)
 
 ### Contributing
 
